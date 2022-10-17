@@ -8,3 +8,5 @@ untuk menjalankan projek ini di komputer anda silahkan ikuti langkah berikut:
 3. Jalankan: npm install
 4. Jalankan: npm run dev
 5. Kunjungi httpL//localhost:3000
+
+Website: https://yryoutubeclone.netlify.app/
