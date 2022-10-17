@@ -1,4 +1,4 @@
-# Nuxt JS Youutbe clone
+# Nuxt JS YouTube clone
 ini merupakan website Youtube clone yang dibuat menggunakan Nuxt JS, Tailwind CSS, dan API Youtube. App ini memiliki fitur searching video, melihat detail video, dan melihat detail channel. 
 
 ## Instalasi projek
